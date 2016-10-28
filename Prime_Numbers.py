@@ -1,6 +1,6 @@
 # Prime Numbers from 0 to n
 #Prime Numbers defined
-lower = 0
+lower = 2
 upper = 50
 print("Prime numbers between",lower,"and",upper,"are:")
 
