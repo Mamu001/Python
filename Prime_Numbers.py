@@ -1,7 +1,7 @@
 # Prime Numbers from 0 to n
 
 lower = 0
-upper = 1000
+upper = 50
 print("Prime numbers between",lower,"and",upper,"are:")
 
 for num in range(lower,upper + 1):
